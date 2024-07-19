@@ -1,1 +1,6 @@
-Enmeshed in digital spaces, our lives in today's world are, to varying degrees, defined in ways and terms of algorithms. Intrigued, as a student of politics and policy, I explore pernicious polarization in the digital public sphere. My interest spans the political economy of the internet and the intricacies of the interface between the internet, society, and politics.
+# 👋 Hello, I'm Jaisal!
+🎓 PhD Candidate, Public Policy, at IIT Bombay 🌐 Digital Wonk
+### 🚀 About Me
+🧠 I stress over the mysteries of our digital universe! My research dives deep into the rabbit hole of online communities and interaction spaces, exploring how digitalisation influences our socio-political landscape.
+### 🔬 Research Interests
+💻 Digital Public Sphere, Pernicious Polarization,  and Policy (aka Why can't we all just get along?)
